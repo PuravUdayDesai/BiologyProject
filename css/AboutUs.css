@@ -1,0 +1,50 @@
+.card-image {
+    width: 10rem;
+    height: 10rem;
+    overflow: hidden;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow:
+    0 0 0 5px #3273DC,
+	0 0 0 10px #7FA7E9,
+    0 0 0 13px #B5CBF0,
+    0 0 0 15px #C0D4F4;
+}
+
+.card {
+	padding-top: 2rem;
+}
+
+.fab {
+    width: 2rem;
+    height: 2rem;
+    display: block;
+}
+
+.instagram {
+  background: url('../media/image/instagram.svg');
+}
+
+.twitter {
+    background: url('../media/image/twitter.svg');   
+}
+
+.linkedin {
+    background: url('../media/image/linkedin.svg');   
+}
+
+.github {
+    background: url('../media/image/github.svg');   
+}
+
+.youtube {
+    background: url('../media/image/youtube.svg');   
+}
+
+.hackerrank {
+    background: url(../media/image/hacker.svg);
+    height: 2.5rem;
+    width: 2.5rem;
+}
