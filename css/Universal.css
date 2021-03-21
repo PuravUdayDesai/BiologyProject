@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1&display=swap');
+.figure_text {
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+.img_border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
