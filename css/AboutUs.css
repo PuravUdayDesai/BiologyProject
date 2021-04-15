@@ -1,3 +1,12 @@
+body {
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    background-image: radial-gradient(at top left, #f5eac2, transparent), radial-gradient(at top right, #dfb6bd, transparent), radial-gradient(at bottom left, #b8bce0, transparent);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
 .card-image {
     width: 10rem;
     height: 10rem;
@@ -6,11 +15,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow:
-    0 0 0 5px #3273DC,
-	0 0 0 10px #7FA7E9,
-    0 0 0 13px #B5CBF0,
-    0 0 0 15px #C0D4F4;
+    box-shadow: gray;
 }
 
 .banner {
@@ -18,28 +23,24 @@
     margin-right: auto;
     width: 50rem;
     margin-bottom: 4.5rem;
-    box-shadow:
-    0 0 0 5px #3273DC,
-    0 0 0 10px #7FA7E9,
-    0 0 0 13px #B5CBF0,
-    0 0 0 15px #C0D4F4;
+    box-shadow: gray;
 }
 
 .card-header {
-    box-shadow: 0 0 0 5px #3273DC;
+    box-shadow: gray;
 }
 
 .column .card {
-    box-shadow: 0 0 0 3px #3273DC;
-	padding-top: 2rem;
+    box-shadow: gray;
+    padding-top: 2rem;
 }
 
 .card .card-footer {
-    box-shadow: 0 0 0 3px #3273DC;
+    box-shadow: gray;
 }
 
 .banner .card-footer {
-    box-shadow: 0 0 0 5px #3273DC;
+    box-shadow: gray;
 }
 
 .fab {
@@ -49,33 +50,33 @@
 }
 
 .instagram {
-  background: url('../media/image/instagram.svg');
+    background: url('../media/image/svg/instagram.svg');
 }
 
 .twitter {
-    background: url('../media/image/twitter.svg');   
+    background: url('../media/image/svg/twitter.svg');
 }
 
 .linkedin {
-    background: url('../media/image/linkedin.svg');   
+    background: url('../media/image/svg/linkedin.svg');
 }
 
 .github {
-    background: url('../media/image/github.svg');   
+    background: url('../media/image/svg/github.svg');
 }
 
 .youtube {
-    background: url('../media/image/youtube.svg');   
+    background: url('../media/image/svg/youtube.svg');
 }
 
 .hackerrank {
-    background: url(../media/image/hacker.svg);
+    background: url('../media/image/svg/hacker.svg');
     height: 2.5rem;
     width: 2.5rem;
 }
 
 .email {
-    background: url('../media/image/email.svg');   
+    background: url('../media/image/svg/email.svg');
     height: 2.5rem;
-    width: 2.5rem;   
+    width: 2.5rem;
 }
