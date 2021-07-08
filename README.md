@@ -5,7 +5,7 @@
 </p>
 
 ## Website Link 
-The website is hosted on live [here](https://coep-biology-project-7b76d.web.app/html/MainIndex.html).
+The website is hosted live [here](https://coep-biology-project-7b76d.web.app/html/MainIndex.html).
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/44437936/115026912-a9966200-9ee0-11eb-9089-2dbb81276e2b.png)
