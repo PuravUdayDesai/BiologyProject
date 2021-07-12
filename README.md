@@ -4,6 +4,9 @@
   <img src="https://www.coep.org.in/sites/default/files/coep_new_logo.png" alt="College of Engineering, Pune" />
 </p>
 
+## Background
+This project is developed as an report of a research assignment for a college subject
+
 ## Website Link 
 The website is hosted live [here](https://coep-biology-project-7b76d.web.app/html/MainIndex.html).
 
